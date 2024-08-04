@@ -41,6 +41,7 @@ dependencies:
   image_picker: ^1.1.2
   path_provider: ^2.1.3
   flutter_svg: ^2.0.10+1
+  carousel_slider: ^4.2.1
 
 dev_dependencies:
   flutter_test:
@@ -68,6 +69,8 @@ flutter:
   assets:
     - assets/images/logo/
     - assets/images/icon/on_boarding/
+    - assets/images/icon/sign_up/
+    - assets/images/icon/core/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
