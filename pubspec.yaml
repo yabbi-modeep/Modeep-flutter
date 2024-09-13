@@ -1,4 +1,4 @@
-name: untitled
+name: modeep
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -42,6 +42,7 @@ dependencies:
   path_provider: ^2.1.3
   flutter_svg: ^2.0.10+1
   carousel_slider: ^4.2.1
+  timeago: ^3.7.0
 
 dev_dependencies:
   flutter_test:
@@ -71,6 +72,11 @@ flutter:
     - assets/images/icon/on_boarding/
     - assets/images/icon/sign_up/
     - assets/images/icon/core/
+    - assets/images/icon/main/
+    - assets/images/icon/post/
+    - assets/images/icon/post_details/
+    - assets/images/icon/my_page/
+    - assets/images/icon/chat/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
